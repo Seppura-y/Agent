@@ -1,0 +1,25 @@
+<UI version="4.0" >
+ <class>AgentClass</class>
+ <widget class="QWidget" name="AgentClass" >
+  <property name="objectName" >
+   <string notr="true">AgentClass</string>
+  </property>
+  <property name="geometry" >
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>600</width>
+    <height>400</height>
+   </rect>
+  </property>
+  <property name="windowTitle" >
+   <string>Agent</string>
+  </property>$centralwidget$
+ </widget>
+ <layoutDefault spacing="6" margin="11" />
+ <pixmapfunction></pixmapfunction>
+ <resources>
+   <include location="agent.qrc"/>
+ </resources>
+ <connections/>
+</UI>
